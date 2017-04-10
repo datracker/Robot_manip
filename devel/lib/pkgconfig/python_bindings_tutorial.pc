@@ -1,0 +1,8 @@
+prefix=/home/tanvir/catkin_ws/devel
+
+Name: python_bindings_tutorial
+Description: Description of python_bindings_tutorial
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/tanvir/catkin_ws/devel/lib 
+Requires: 

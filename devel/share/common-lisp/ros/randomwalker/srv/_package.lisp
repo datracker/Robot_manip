@@ -1,0 +1,15 @@
+(cl:defpackage randomwalker-srv
+  (:use )
+  (:export
+   "GETSCORE"
+   "<GETSCORE-REQUEST>"
+   "GETSCORE-REQUEST"
+   "<GETSCORE-RESPONSE>"
+   "GETSCORE-RESPONSE"
+   "GETBOUNDS"
+   "<GETBOUNDS-REQUEST>"
+   "GETBOUNDS-REQUEST"
+   "<GETBOUNDS-RESPONSE>"
+   "GETBOUNDS-RESPONSE"
+  ))
+

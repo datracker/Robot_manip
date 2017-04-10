@@ -1,0 +1,2 @@
+beginner_tutorials:foobar:learning_tf:project_1:python_bindings_tutorial:randomwalker:using_markers
+-DCATKIN_DEVEL_PREFIX=/home/tanvir/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/tanvir/catkin_ws/install -G Unix Makefiles
